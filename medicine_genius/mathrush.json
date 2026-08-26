@@ -1,0 +1,91 @@
+{
+  "id": "1",
+  "app_id": "com.mathrush.puzzle",
+  "package_name": "com.mathrush.puzzle",
+  "created_at": "2026-08-26 12:00:00",
+  "updated_at": "2026-08-26 12:00:00",
+  "status": "1",
+  "counter": "3",
+  "counter_native": "1",
+  "counter_native_list": "5",
+  "counter_banner": "1",
+  "other_counter": "2",
+  "image": "https://example.com/images/banner.png",
+  "base_url": "https://api.example.com",
+  "image_url": "https://api.example.com/images/",
+  "team_url": "https://example.com/team",
+  "app_name": "Math Rush",
+  "app_logo": "https://example.com/images/logo.png",
+  "app_version": "1.0.0",
+  "in_review_version": "1.0.0",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.mathrush.puzzle",
+  "privacy_policy_url": "https://example.com/privacy-policy",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.mathrush.puzzle",
+  "update_url": "https://play.google.com/store/apps/details?id=com.mathrush.puzzle",
+  "update_title": "New Update Available!",
+  "update_description": "We added new puzzle modes, smoother controls, and bug fixes.",
+  "force_update": "0",
+  "skip_update": "1",
+  "maintenance_mode": "0",
+  "maintenance_title": "Under Maintenance",
+  "maintenance_description": "We are currently improving our servers. Please check back shortly.",
+  "maintenance_url": "https://example.com/status",
+  "ad_show": "1",
+  "ads_manager": {
+    "interstitialAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/1743883545",
+        "unitIdIos": "ca-app-pub-6519540176744855/9291201074",
+        "adName": "AdMob Interstitial",
+        "status": true
+      }
+    ],
+    "nativeAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/6421495156",
+        "unitIdIos": "ca-app-pub-6519540176744855/7435193926",
+        "adName": "AdMob Native",
+        "status": true
+      }
+    ],
+    "bannerAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/9347041395",
+        "unitIdIos": "ca-app-pub-6519540176744855/5175862098",
+        "adName": "AdMob Banner",
+        "status": true
+      }
+    ],
+    "openAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/5571447919",
+        "unitIdIos": "ca-app-pub-6519540176744855/9973727353",
+        "adName": "AdMob App Open",
+        "status": true
+      }
+    ],
+    "rewardedAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/1743883545",
+        "unitIdIos": "ca-app-pub-6519540176744855/9291201074",
+        "adName": "AdMob Rewarded",
+        "status": true
+      }
+    ]
+  },
+  "extra": {
+    "otherApps": [
+      {
+        "logo": "https://example.com/apps/word_rush_logo.png",
+        "appName": "Word Rush",
+        "url": "https://play.google.com/store/apps/details?id=com.wordrush.puzzle"
+      }
+    ]
+  },
+  "user_id": "usr_12345",
+  "security_key": "sec_key_abcdef123456",
+  "adtype": "admob",
+  "redirect_url": "",
+  "tc": "0",
+  "success": 1
+}
