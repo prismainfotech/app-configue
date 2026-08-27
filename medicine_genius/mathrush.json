@@ -1,9 +1,11 @@
 {
   "id": "1",
-  "app_id": "com.mathrush.puzzle",
-  "package_name": "com.mathrush.puzzle",
+  "app_id": "com.prisma.mathrush.brain.puzzle.game",
+  "package_name": "com.prisma.mathrush.brain.puzzle.game",
+  "admob_app_id_android": "ca-app-pub-6519540176744855~9660767515",
+  "admob_app_id_ios": "ca-app-pub-6519540176744855~1838117815",
   "created_at": "2026-08-26 12:00:00",
-  "updated_at": "2026-08-26 12:00:00",
+  "updated_at": "2026-08-27 19:10:00",
   "status": "1",
   "counter": "3",
   "counter_native": "1",
@@ -14,14 +16,17 @@
   "base_url": "https://api.example.com",
   "image_url": "https://api.example.com/images/",
   "team_url": "https://example.com/team",
-  "app_name": "Math Rush",
+  "app_name": "MathRush: Brain Puzzle Game",
   "app_logo": "https://example.com/images/logo.png",
   "app_version": "1.0.0",
   "in_review_version": "1.0.0",
-  "share_app_url": "https://play.google.com/store/apps/details?id=com.mathrush.puzzle",
-  "privacy_policy_url": "https://example.com/privacy-policy",
-  "rating_url": "https://play.google.com/store/apps/details?id=com.mathrush.puzzle",
-  "update_url": "https://play.google.com/store/apps/details?id=com.mathrush.puzzle",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.mathrush.brain.puzzle.game",
+  "privacy_policy_url": "https://medicinegeniusx1.blogspot.com/2026/02/privacy-policy.html",
+  "terms_and_conditions_url": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "terms_condition_url": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "terms_url": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.mathrush.brain.puzzle.game",
+  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.mathrush.brain.puzzle.game",
   "update_title": "New Update Available!",
   "update_description": "We added new puzzle modes, smoother controls, and bug fixes.",
   "force_update": "0",
@@ -34,40 +39,40 @@
   "ads_manager": {
     "interstitialAds": [
       {
-        "unitId": "ca-app-pub-6519540176744855/1743883545",
-        "unitIdIos": "ca-app-pub-6519540176744855/9291201074",
+        "unitId": "ca-app-pub-6519540176744855/1590705805",
+        "unitIdIos": "ca-app-pub-6519540176744855/8511337376",
         "adName": "AdMob Interstitial",
         "status": true
       }
     ],
     "nativeAds": [
       {
-        "unitId": "ca-app-pub-6519540176744855/6421495156",
-        "unitIdIos": "ca-app-pub-6519540176744855/7435193926",
+        "unitId": "ca-app-pub-6519540176744855/8894480753",
+        "unitIdIos": "ca-app-pub-6519540176744855/8319765686",
         "adName": "AdMob Native",
         "status": true
       }
     ],
     "bannerAds": [
       {
-        "unitId": "ca-app-pub-6519540176744855/9347041395",
-        "unitIdIos": "ca-app-pub-6519540176744855/5175862098",
+        "unitId": "ca-app-pub-6519540176744855/3355590913",
+        "unitIdIos": "ca-app-pub-6519540176744855/8702909061",
         "adName": "AdMob Banner",
         "status": true
       }
     ],
     "openAds": [
       {
-        "unitId": "ca-app-pub-6519540176744855/5571447919",
-        "unitIdIos": "ca-app-pub-6519540176744855/9973727353",
+        "unitId": "ca-app-pub-6519540176744855/9537855887",
+        "unitIdIos": "ca-app-pub-6519540176744855/3870596233",
         "adName": "AdMob App Open",
         "status": true
       }
     ],
     "rewardedAds": [
       {
-        "unitId": "ca-app-pub-6519540176744855/1743883545",
-        "unitIdIos": "ca-app-pub-6519540176744855/9291201074",
+        "unitId": "ca-app-pub-6519540176744855/6701713052",
+        "unitIdIos": "ca-app-pub-6519540176744855/8211954474",
         "adName": "AdMob Rewarded",
         "status": true
       }
