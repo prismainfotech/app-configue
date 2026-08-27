@@ -30,7 +30,7 @@
   "maintenance_title": "Under Maintenance",
   "maintenance_description": "We are currently improving our servers. Please check back shortly.",
   "maintenance_url": "https://example.com/status",
-  "ad_show": "0",
+  "ad_show": "1",
   "ads_manager": {
     "interstitialAds": [
       {
