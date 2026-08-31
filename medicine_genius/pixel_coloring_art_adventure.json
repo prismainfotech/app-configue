@@ -1,0 +1,96 @@
+{
+  "id": "1",
+  "app_id": "com.prisma.pixel.coloring.art.adventure",
+  "package_name": "com.prisma.pixel.coloring.art.adventure",
+  "admob_app_id_android": "ca-app-pub-6519540176744855~9502140361",
+  "admob_app_id_ios": "ca-app-pub-6519540176744855~2812126438",
+  "created_at": "2026-08-31 12:00:00",
+  "updated_at": "2026-08-31 19:30:00",
+  "status": "1",
+  "counter": "3",
+  "counter_native": "1",
+  "counter_native_list": "5",
+  "counter_banner": "1",
+  "other_counter": "2",
+  "image": "https://example.com/images/banner.png",
+  "base_url": "https://api.example.com",
+  "image_url": "https://api.example.com/images/",
+  "team_url": "https://example.com/team",
+  "app_name": "Pixel Coloring Art Adventure",
+  "app_logo": "https://example.com/images/logo.png",
+  "app_version": "1.0.0",
+  "in_review_version": "1.0.0",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.pixel.coloring.art.adventure",
+  "privacy_policy_url": "https://medicinegeniusx1.blogspot.com/2026/02/privacy-policy.html",
+  "terms_and_conditions_url": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "terms_condition_url": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "terms_url": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.pixel.coloring.art.adventure",
+  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.pixel.coloring.art.adventure",
+  "update_title": "New Update Available!",
+  "update_description": "We added new coloring artworks, smoother controls, and bug fixes.",
+  "force_update": "0",
+  "skip_update": "1",
+  "maintenance_mode": "0",
+  "maintenance_title": "Under Maintenance",
+  "maintenance_description": "We are currently improving our servers. Please check back shortly.",
+  "maintenance_url": "https://example.com/status",
+  "ad_show": "1",
+  "ads_manager": {
+    "interstitialAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/6751371448",
+        "unitIdIos": "ca-app-pub-6519540176744855/5594579746",
+        "adName": "AdMob Interstitial",
+        "status": true
+      }
+    ],
+    "nativeAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/7331272598",
+        "unitIdIos": "ca-app-pub-6519540176744855/1223712593",
+        "adName": "AdMob Native",
+        "status": true
+      }
+    ],
+    "bannerAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/7741019489",
+        "unitIdIos": "ca-app-pub-6519540176744855/1499044763",
+        "adName": "AdMob Banner",
+        "status": true
+      }
+    ],
+    "openAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/2536794268",
+        "unitIdIos": "ca-app-pub-6519540176744855/5159465479",
+        "adName": "AdMob App Open",
+        "status": true
+      }
+    ],
+    "rewardedAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/6701713052",
+        "unitIdIos": "ca-app-pub-6519540176744855/8211954474",
+        "adName": "AdMob Rewarded",
+        "status": true
+      }
+    ]
+  },
+  "extra": {
+    "otherApps": [
+      {
+        "logo": "https://example.com/apps/word_rush_logo.png",
+        "appName": "Word Rush",
+        "url": "https://play.google.com/store/apps/details?id=com.wordrush.puzzle"
+      }
+    ]
+  },
+  "user_id": "usr_12345",
+  "security_key": "sec_key_abcdef123456",
+  "adtype": "admob",
+  "redirect_url": "",
+  "tc": "0",
+  "success": 1
+}
