@@ -1,0 +1,95 @@
+{
+  "id": "1",
+  "app_id": "com.welltrack.weightwellness",
+  "package_name": "com.welltrack.weightwellness",
+  "admob_app_id_android": "ca-app-pub-8203452816120623~6903769902",
+  "admob_app_id_ios": "ca-app-pub-6519540176744855~1838117815",
+  "created_at": "2026-08-26 12:00:00",
+  "updated_at": "2026-08-27 19:10:00",
+  "status": "1",
+  "counter": "3",
+  "counter_native": "1",
+  "counter_native_list": "5",
+  "counter_banner": "1",
+  "other_counter": "2",
+  "image": "https://example.com/images/banner.png",
+  "base_url": "https://api.example.com",
+  "image_url": "https://api.example.com/images/",
+  "team_url": "https://example.com/team",
+  "app_name": "WellTrack – Weight & Wellness",
+  "app_logo": "https://example.com/images/logo.png",
+  "app_version": "1.0.0",
+  "in_review_version": "1.0.0",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.welltrack.weightwellness",
+  "privacy_policy_url": "https://arthalabs.blogspot.com/2026/02/privacy-policy.html",
+  "terms_and_conditions_url": "https://arthalabs.blogspot.com/2026/02/tearms-and-conditions.html",
+  "terms_condition_url": "https://arthalabs.blogspot.com/2026/02/tearms-and-conditions.html",
+  "terms_url": "https://arthalabs.blogspot.com/2026/02/tearms-and-conditions.html",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.welltrack.weightwellness",
+  "update_url": "https://play.google.com/store/apps/details?id=com.welltrack.weightwellness",
+  "update_title": "New Update Available!",
+  "update_description": "We added new puzzle modes, smoother controls, and bug fixes.",
+  "force_update": "0",
+  "skip_update": "1",
+  "maintenance_mode": "0",
+  "maintenance_title": "Under Maintenance",
+  "maintenance_description": "We are currently improving our servers. Please check back shortly.",
+  "maintenance_url": "https://example.com/status",
+  "ad_show": "0",
+  "ads_manager": {
+"interstitialAds": [
+    {
+      "unitId": "ca-app-pub-8203452816120623/3855924419",      "unitIdIOS": "ca-app-pub-6519540176744855/1187868820",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "nativeAds": [
+    {
+      "unitId": "ca-app-pub-8203452816120623/1651443223",
+      "unitIdIOS": "ca-app-pub-6519540176744855/9972934760",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "bannerAds": [
+    {
+      "unitId": "ca-app-pub-8203452816120623/4277606561",      
+      "unitIdIOS": "ca-app-pub-6519540176744855/4995820113",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "openAds": [
+    {
+      "unitId": "ca-app-pub-8203452816120623/2748902471",      
+      "unitIdIOS": "ca-app-pub-6519540176744855/3682738449",
+      "adName": "",
+      "status": true
+    }
+  ],   
+  "rewardedAds": [
+      {
+        "unitId": "ca-app-pub-8203452816120623/1396870438",
+        "unitIdIos": "ca-app-pub-6519540176744855/8211954474",
+        "adName": "AdMob Rewarded",
+        "status": true
+      }
+    ]
+  },
+  "extra": {
+    "otherApps": [
+      {
+        "logo": "https://example.com/apps/word_rush_logo.png",
+        "appName": "Word Rush",
+        "url": "https://play.google.com/store/apps/details?id=com.wordrush.puzzle"
+      }
+    ]
+  },
+  "user_id": "usr_12345",
+  "security_key": "sec_key_abcdef123456",
+  "adtype": "admob",
+  "redirect_url": "",
+  "tc": "0",
+  "success": 1
+}
