@@ -1,0 +1,75 @@
+{
+  "id": "81",
+  "app_id": "5",
+  "package_name": "com.prisma.pediatric.drug.dose.calculator",
+  "created_at": "2026-07-19 00:00:00",
+  "updated_at": "2026-09-09 15:26:51",
+  "status": "1",
+  "counter": "3",
+  "counter_native": "1",
+  "counter_native_list": "4",
+  "counter_banner": "1",
+  "other_counter": "1",
+  "image": "No Image",
+  "base_url": "",
+  "image_url": "",
+  "team_url": "",
+  "app_name": "Pediatric Drug Dose Calculator",
+  "app_logo": "https://development.frontbitsolutions.com/file-upload-gallary/uploads/20260209091653-oneQ.png",
+  "app_version": "1.0",
+  "in_review_version": "1.0",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.pediatric.drug.dose.calculator",
+  "privacy_policy_url": "https://medicinegeniusx1.blogspot.com/2026/02/privacy-policy.html",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.pediatric.drug.dose.calculator",
+  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.pediatric.drug.dose.calculator",
+  "update_title": "Pediatric",
+  "update_description": "Use for free application",
+  "force_update": "0",
+  "skip_update": "0",
+  "maintenance_mode": "0",
+  "maintenance_title": "Maintenance Title",
+  "maintenance_description": "Maintenance Description",
+  "maintenance_url": "https://play.google.com/store/apps/details?id=com.prisma.pediatric.drug.dose.calculator",
+  "ad_show": "1",
+  "ads_manager": {
+    "interstitialAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/2848239394",
+        "unitIdIOS": "ca-app-pub-3940256099942544/4411468910",
+        "adName": "",
+        "status": true
+      }
+    ],
+    "nativeAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/8272685413",
+        "unitIdIOS": "ca-app-pub-3940256099942544/3986624511",
+        "adName": "",
+        "status": true
+      }
+    ],
+    "bannerAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/5729553608",
+        "unitIdIOS": "ca-app-pub-3940256099942544/2934735716",
+        "adName": "",
+        "status": true
+      }
+    ],
+    "openAds": [
+      {
+        "unitId": "ca-app-pub-6519540176744855/9222076059",
+        "unitIdIOS": "ca-app-pub-3940256099942544/5662855259",
+        "adName": "",
+        "status": true
+      }
+    ]
+  },
+  "extra": "",
+  "user_id": "1",
+  "security_key": "",
+  "adtype": "admob",
+  "redirect_url": "",
+  "tc": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "success": 0
+}
