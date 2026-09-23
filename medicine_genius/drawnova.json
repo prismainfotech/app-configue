@@ -1,0 +1,75 @@
+{
+  "id": "87",
+  "app_id": "5",
+  "package_name": "com.prisma.drawnova.ar.sketch.trace",
+  "created_at": "2026-07-19 00:00:00",
+  "updated_at": "2026-09-19 06:47:55",
+  "status": "1",
+  "counter": "1",
+  "counter_native": "1",
+  "counter_native_list": "4",
+  "counter_banner": "1",
+  "other_counter": "1",
+  "image": "No Image",
+  "base_url": "",
+  "image_url": "",
+  "team_url": "",
+  "app_name": "DrawNova",
+  "app_logo": "https://development.frontbitsolutions.com/file-upload-gallary/uploads/20260209091653-oneQ.png",
+  "app_version": "1.0",
+  "in_review_version": "1.0",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.drawnova.ar.sketch.trace",
+  "privacy_policy_url": "https://medicinegeniusx1.blogspot.com/2026/02/privacy-policy.html",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.drawnova.ar.sketch.trace",
+  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.drawnova.ar.sketch.trace",
+  "update_title": "drug",
+  "update_description": "Use for free application",
+  "force_update": "0",
+  "skip_update": "0",
+  "maintenance_mode": "0",
+  "maintenance_title": "Maintenance Title",
+  "maintenance_description": "Maintenance Description",
+  "maintenance_url": "https://play.google.com/store/apps/details?id=com.prisma.drawnova.ar.sketch.trace",
+  "ad_show": "1",
+  "ads_manager": {
+  "interstitialAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/9916120679",
+      "unitIdIOS": "ca-app-pub-6519540176744855/9532977293",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "nativeAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/7892592566",
+      "unitIdIOS": "cca-app-pub-6519540176744855/6381180282",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "bannerAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/7893572505",
+      "unitIdIOS": "ca-app-pub-6519540176744855/5670733847",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "openAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/3946588631",
+      "unitIdIOS": "ca-app-pub-6519540176744855/2441935271",
+      "adName": "",
+      "status": true
+    }
+  ]
+  },
+  "extra": "",
+  "user_id": "1",
+  "security_key": "",
+  "adtype": "admob",
+  "redirect_url": "",
+  "tc": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "success": 0
+}
