@@ -1,0 +1,6 @@
+# Secrets and credentials
+AL/
+
+# OS generated files
+.DS_Store
+*.DS_Store
