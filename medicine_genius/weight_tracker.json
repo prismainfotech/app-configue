@@ -1,7 +1,7 @@
 {
   "id": "87",
   "app_id": "5",
-  "package_name": "com.prisma.weight.and.wellness.tracker",
+  "package_name": "com.prisma.weightpilot.weight.tracker",
   "created_at": "2026-07-19 00:00:00",
   "updated_at": "2026-09-19 06:47:55",
   "status": "1",
@@ -14,14 +14,14 @@
   "base_url": "",
   "image_url": "",
   "team_url": "",
-  "app_name": "Weight & Wellness",
+  "app_name": "Weight Tracker",
   "app_logo": "https://development.frontbitsolutions.com/file-upload-gallary/uploads/20260209091653-oneQ.png",
   "app_version": "1.0",
   "in_review_version": "1.0",
-  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.weight.and.wellness.tracker",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.weightpilot.weight.tracker",
   "privacy_policy_url": "https://medicinegeniusx1.blogspot.com/2026/02/privacy-policy.html",
-  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.weight.and.wellness.tracker",
-  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.weight.and.wellness.tracker",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.weightpilot.weight.tracker",
+  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.weightpilot.weight.tracker",
   "update_title": "drug",
   "update_description": "Use for free application",
   "force_update": "0",
@@ -29,42 +29,42 @@
   "maintenance_mode": "0",
   "maintenance_title": "Maintenance Title",
   "maintenance_description": "Maintenance Description",
-  "maintenance_url": "https://play.google.com/store/apps/details?id=com.prisma.weight.and.wellness.tracker",
+  "maintenance_url": "https://play.google.com/store/apps/details?id=com.prisma.weightpilot.weight.tracker",
   "ad_show": "1",
   "ads_manager": {
-    "interstitialAds": [
-      {
-        "unitId": "ca-app-pub-6519540176744855/5262148078",
-        "unitIdIOS": "ca-app-pub-6519540176744855/1090813244",
-        "adName": "",
-        "status": true
-      }
-    ],
-    "nativeAds": [
-      {
-        "unitId": "ca-app-pub-6519540176744855/8961719938",
-        "unitIdIOS": "ca-app-pub-6519540176744855/6627200639",
-        "adName": "",
-        "status": true
-      }
-    ],
-    "bannerAds": [
-      {
-        "unitId": "ca-app-pub-6519540176744855/5697262343",
-        "unitIdIOS": "ca-app-pub-6519540176744855/7505168037",
-        "adName": "",
-        "status": true
-      }
-    ],
-    "openAds": [
-      {
-        "unitId": "ca-app-pub-6519540176744855/3154809155",
-        "unitIdIOS": "ca-app-pub-6519540176744855/2252841352",
-        "adName": "",
-        "status": true
-      }
-    ]
-  },
+  "interstitialAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/3142829733",
+      "unitIdIOS": "ca-app-pub-6519540176744855/8805436139",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "nativeAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/2814742853",
+      "unitIdIOS": "ca-app-pub-6519540176744855/7217806114",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "bannerAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/4455911409",
+      "unitIdIOS": "ca-app-pub-6519540176744855/5226067593",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "openAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/1501661185",
+      "unitIdIOS": "ca-app-pub-6519540176744855/5485087892",
+      "adName": "",
+      "status": true
+    }
+  ]
+},
   "extra": "",
   "user_id": "1",
   "security_key": "",
