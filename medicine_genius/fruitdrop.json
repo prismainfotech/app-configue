@@ -30,7 +30,7 @@
   "maintenance_title": "Maintenance Title",
   "maintenance_description": "Maintenance Description",
   "maintenance_url": "https://play.google.com/store/apps/details?id=com.prizma.carjam.parking.escape",
-  "ad_show": "1",
+  "ad_show": "0",
   "ads_manager": {
     "interstitialAds": [
       {
