@@ -1,0 +1,75 @@
+{
+  "id": "87",
+  "app_id": "5",
+  "package_name": "com.prisma.doculux.pdf.scanner.tools",
+  "created_at": "2026-07-19 00:00:00",
+  "updated_at": "2026-09-19 06:47:55",
+  "status": "1",
+  "counter": "1",
+  "counter_native": "1",
+  "counter_native_list": "4",
+  "counter_banner": "1",
+  "other_counter": "1",
+  "image": "No Image",
+  "base_url": "",
+  "image_url": "",
+  "team_url": "",
+  "app_name": "Swift Scan",
+  "app_logo": "https://development.frontbitsolutions.com/file-upload-gallary/uploads/20260209091653-oneQ.png",
+  "app_version": "1.0",
+  "in_review_version": "1.0",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.doculux.pdf.scanner.tools",
+  "privacy_policy_url": "https://medicinegeniusx1.blogspot.com/2026/02/privacy-policy.html",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.doculux.pdf.scanner.tools",
+  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.doculux.pdf.scanner.tools",
+  "update_title": "drug",
+  "update_description": "Use for free application",
+  "force_update": "0",
+  "skip_update": "0",
+  "maintenance_mode": "0",
+  "maintenance_title": "Maintenance Title",
+  "maintenance_description": "Maintenance Description",
+  "maintenance_url": "https://play.google.com/store/apps/details?id=com.prisma.doculux.pdf.scanner.tools",
+  "ad_show": "1",
+  "ads_manager": {
+  "interstitialAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/3871255377",
+      "unitIdIOS": "ca-app-pub-6519540176744855/4095330667",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "nativeAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/1572395097",
+      "unitIdIOS": "ca-app-pub-6519540176744855/6441578394",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "bannerAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/8795253260",
+      "unitIdIOS": "ca-app-pub-6519540176744855/4006986747",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "openAds": [
+    {
+      "unitId": "ca-app-pub-6519540176744855/9259313429",
+      "unitIdIOS": "ca-app-pub-6519540176744855/5048605673",
+      "adName": "",
+      "status": true
+    }
+  ]
+},
+  "extra": "",
+  "user_id": "1",
+  "security_key": "",
+  "adtype": "admob",
+  "redirect_url": "",
+  "tc": "https://medicinegeniusx1.blogspot.com/2026/02/terms-and-conditions.html",
+  "success": 0
+}
