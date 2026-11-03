@@ -1,0 +1,75 @@
+{
+  "id": "87",
+  "app_id": "5",
+  "package_name": "com.prisma.docmaster",
+  "created_at": "2026-07-19 00:00:00",
+  "updated_at": "2026-09-19 06:47:55",
+  "status": "1",
+  "counter": "1",
+  "counter_native": "1",
+  "counter_native_list": "4",
+  "counter_banner": "1",
+  "other_counter": "1",
+  "image": "No Image",
+  "base_url": "",
+  "image_url": "",
+  "team_url": "",
+  "app_name": "DocMaster",
+  "app_logo": "https://development.frontbitsolutions.com/file-upload-gallary/uploads/20260209091653-oneQ.png",
+  "app_version": "1.0",
+  "in_review_version": "1.0",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.docmaster",
+  "privacy_policy_url": "https://privacypolicyforcodebender.blogspot.com/2026/01/privacy-policy.html",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.docmaster",
+  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.docmaster",
+  "update_title": "drug",
+  "update_description": "Use for free application",
+  "force_update": "0",
+  "skip_update": "0",
+  "maintenance_mode": "0",
+  "maintenance_title": "Maintenance Title",
+  "maintenance_description": "Maintenance Description",
+  "maintenance_url": "https://play.google.com/store/apps/details?id=com.prisma.docmaster",
+  "ad_show": "1",
+  "ads_manager": {
+  "interstitialAds": [
+    {
+      "unitId": "ca-app-pub-7392568742743240/5122985309", 
+      "unitIdIOS": "ca-app-pub-3940256099942544/4411468910",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "nativeAds": [
+    {
+      "unitId": "ca-app-pub-7392568742743240/7591132907",
+      "unitIdIOS": "ca-app-pub-3940256099942544/3986624511",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "bannerAds": [
+    {
+      "unitId": "ca-app-pub-7392568742743240/8788664504",
+      "unitIdIOS": "ca-app-pub-3940256099942544/2934735716",
+      "adName": "",
+      "status": true
+    }
+  ],
+  "openAds": [
+    {
+     "unitId": "ca-app-pub-7392568742743240/5713381353",  
+     "unitIdIOS": "ca-app-pub-3940256099942544/5662855259",
+      "adName": "",
+      "status": true
+    }
+  ]
+},
+  "extra": "",
+  "user_id": "1",
+  "security_key": "",
+  "adtype": "admob",
+  "redirect_url": "",
+  "tc": "https://privacypolicyforcodebender.blogspot.com/2026/01/terms-conditions.html",
+  "success": 0
+}
