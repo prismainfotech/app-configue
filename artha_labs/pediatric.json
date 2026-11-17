@@ -28,7 +28,7 @@
   "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.peiatric.dose.calaculator.pro.drug",
   "update_url": "https://play.google.com/store/apps/details?id=com.prisma.peiatric.dose.calaculator.pro.drug",
   "update_title": "New Update Available!",
-  "update_description": "We added new puzzle levels, smoother controls, and bug fixes.",
+  "update_description": "Updated pediatric dosing formulas, improved emergency calculations, and performance enhancements.",
   "force_update": "0",
   "skip_update": "1",
   "maintenance_mode": "0",
@@ -83,6 +83,9 @@
   "security_key": "sec_key_abcdef123456",
   "adtype": "admob",
   "redirect_url": "",
+  "revenue_cat_google_key": "goog_ANNmMmQbzuNuUpEFWYXyYqEUtTd",
+  "revenue_cat_entitlement": "premium",
+  "clarity_project_id": "zezfth6sv5",
   "tc": "0",
   "success": 1
 }
