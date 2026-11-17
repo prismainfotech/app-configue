@@ -1,0 +1,88 @@
+{
+  "id": "1",
+  "app_id": "com.prisma.peiatric.dose.calaculator.pro.drug",
+  "package_name": "com.prisma.peiatric.dose.calaculator.pro.drug",
+  "admob_app_id_android": "ca-app-pub-8203452816120623~4618064799",
+  "admob_app_id_ios": "ca-app-pub-6519540176744855~1981597784",
+  "created_at": "2026-09-14 12:00:00",
+  "updated_at": "2026-09-14 16:25:00",
+  "status": "1",
+  "counter": "2",
+  "counter_native": "1",
+  "counter_native_list": "5",
+  "counter_banner": "1",
+  "other_counter": "2",
+  "image": "https://example.com/images/banner.png",
+  "base_url": "https://api.example.com",
+  "image_url": "https://api.example.com/images/",
+  "team_url": "https://example.com/team",
+  "app_name": "Pediatric Dose Calculator Pro",
+  "app_logo": "https://example.com/images/logo.png",
+  "app_version": "1.0.0",
+  "in_review_version": "1.0.0",
+  "share_app_url": "https://play.google.com/store/apps/details?id=com.prisma.peiatric.dose.calaculator.pro.drug",
+  "privacy_policy_url": "https://arthalabs.blogspot.com/2026/02/privacy-policy.html",
+  "terms_and_conditions_url": "https://arthalabs.blogspot.com/2026/02/tearms-and-conditions.html",
+  "terms_condition_url": "https://arthalabs.blogspot.com/2026/02/tearms-and-conditions.html",
+  "terms_url": "https://arthalabs.blogspot.com/2026/02/tearms-and-conditions.html",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.prisma.peiatric.dose.calaculator.pro.drug",
+  "update_url": "https://play.google.com/store/apps/details?id=com.prisma.peiatric.dose.calaculator.pro.drug",
+  "update_title": "New Update Available!",
+  "update_description": "We added new puzzle levels, smoother controls, and bug fixes.",
+  "force_update": "0",
+  "skip_update": "1",
+  "maintenance_mode": "0",
+  "maintenance_title": "Under Maintenance",
+  "maintenance_description": "We are currently improving our servers. Please check back shortly.",
+  "maintenance_url": "https://example.com/status",
+  "ad_show": "1",
+  "ads_manager": {
+    "interstitialAds": [
+      {
+        "unitId": "ca-app-pub-8203452816120623/3669751496",
+        "unitIdIOS": "ca-app-pub-3940256099942544/4411468910",
+        "adName": "",
+        "status": true
+      }
+    ],
+    "nativeAds": [
+      {
+        "unitId": "ca-app-pub-8203452816120623/4791261472",
+        "unitIdIOS": "ca-app-pub-3940256099942544/3986624511",
+        "adName": "",
+        "status": true
+      }
+    ],
+    "bannerAds": [
+      {
+        "unitId": "ca-app-pub-8203452816120623/1207239684",
+        "unitIdIOS": "ca-app-pub-3940256099942544/2934735716",
+        "adName": "",
+        "status": true
+      }
+    ],
+    "openAds": [
+      {
+        "unitId": "ca-app-pub-8203452816120623/3171981486",
+        "unitIdIOS": "ca-app-pub-3940256099942544/5662855259",
+        "adName": "",
+        "status": true
+      }
+    ]
+  },
+  "extra": {
+    "otherApps": [
+      {
+        "logo": "https://example.com/apps/word_rush_logo.png",
+        "appName": "Word Rush",
+        "url": "https://play.google.com/store/apps/details?id=com.wordrush.puzzle"
+      }
+    ]
+  },
+  "user_id": "usr_12345",
+  "security_key": "sec_key_abcdef123456",
+  "adtype": "admob",
+  "redirect_url": "",
+  "tc": "0",
+  "success": 1
+}
